@@ -1,0 +1,13 @@
+folder1\file1.txt  folder2\file1.txt  Number of lines with differences: 2
+Line 3: c 5
+Line 3: c 5 ====23
+Line 4: if(|)
+Line 4: if()
+folder1\file2.txt  folder2\file2.txt  Number of lines with differences: 1
+Line 3: c 5 3
+Line 3: c 5
+folder1\file5.txt  folder2\file5.txt  Number of lines with differences: 2
+Line 4: if(|) map
+Line 4: if(|)
+Line 6: e 3
+Line 6: e 3 map2
